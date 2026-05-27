@@ -2,7 +2,7 @@
 สวัสดีครับผมชื่ออะไรครับ# ยินดีต้อนรับสู่ GitHub ของฉัน! 🚀
 
 <div align="center">
-  <img src="[6931901001](http://110.78.30.115/files/importpicstd/01/69319010013.jpg)3" alt="รูปภาพของฉัน" width="150" height="150" style="border-radius: 50%;"/>
+  <img src="http://110.78.30.115/files/importpicstd/01/69319010013.jpg" alt="รูปภาพของฉัน" width="150" height="150" style="border-radius: 50%;"/>
 
   ## 👤 [ใส่ชื่อ-นามสกุลของคุณตรงนี้]
   **นักศึกษา สาขาเทคโนโลยีสารสนเทศ | วิทยาลัยพณิชยการบางนา**
